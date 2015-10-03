@@ -6,8 +6,8 @@ A bash script for scanning several pages directly to a PDF file.
 
 Apart from the obvious requirement of a recent version of bash, you need:
 
-- [[http://www.sane-project.org|SANE]]'s scanimage for scanning
-- [[http://www.imagemagick.org|ImageMagick]]'s convert for converting to PDF
+- [SANE](http://www.sane-project.org)'s scanimage for scanning
+- [ImageMagick](http://www.imagemagick.org)'s convert for converting to PDF
 - Some wipe utiltiy to securely delete the scanned images afterwards 
 
 ## Usage
@@ -30,5 +30,5 @@ To scan three pages at once and save them all in one PDF file called
 ## License
 
 This small utility is release under the GPL, version 3. See the accompanying
-[[LICENSE.txt|license file]].
+[license file](LICENSE.txt).
 
